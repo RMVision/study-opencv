@@ -28,6 +28,9 @@ for i in range(len(lines)):
         x2 = int(x0 - 1000 * (-b))
         y2 = int(y0 - 1000 * (a))
 
+        print("%d, %d\n", x1, y1)
+        print("%d, %d\n", x2, y2)
+
         cv.line(img, (x1, y1), (x2, y2), (0, 0, 255), 2)
 
 cv.imwrite('houghlines3.png', img)
