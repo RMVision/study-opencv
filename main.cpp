@@ -6,7 +6,7 @@ using namespace cv;
 int main()
 {
     Mat image;
-    image = imread( "../img/266679.png");
+    image = imread( "../img/images.png");
 
     if(image.empty())
     {
