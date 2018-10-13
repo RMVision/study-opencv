@@ -3,7 +3,7 @@ project(study-opencv)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(study-opencv main.cpp)
+add_executable(study-opencv chapter02/example2_3.cpp)
 
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
