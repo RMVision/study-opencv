@@ -9,8 +9,11 @@ set(CMAKE_AUTOUIC ON)
 
 #add_executable(study-opencv openCVDemo2/main.cpp openCVDemo2/opencvworker.cpp openCVDemo2/opencvworker.h openCVDemo2/qcvwidget.cpp openCVDemo2/qcvwidget.h openCVDemo2/qcvwidget.ui)
 
-add_executable(study-opencv lab2/task2.cpp)
+#add_executable(study-opencv lab2/task2.cpp)
 #add_executable(study-opencv openCVDemo1/main.cpp)
+
+add_executable(study-opencv  lab3/test2.cpp)
+
 
 #查找Qt的库
 find_package(Qt5Widgets)
