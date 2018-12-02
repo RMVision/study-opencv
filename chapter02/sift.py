@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 as cv
 
-img = cv.imread('../img/266679.png')
+img = cv.imread('../img_input/266679.png')
 cv.namedWindow("image", cv.WINDOW_AUTOSIZE)  # 定义窗口的大小
 cv.imshow("image", img)
 

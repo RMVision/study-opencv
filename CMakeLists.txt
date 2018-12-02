@@ -12,7 +12,7 @@ set(CMAKE_AUTOUIC ON)
 #add_executable(study-opencv lab2/task2.cpp)
 #add_executable(study-opencv openCVDemo1/main.cpp)
 
-add_executable(study-opencv  lab3/test2.cpp)
+add_executable(study-opencv lab3/camera_calibration.cpp)
 
 
 #查找Qt的库

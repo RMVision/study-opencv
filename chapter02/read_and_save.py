@@ -21,7 +21,7 @@ def get_img_info(img):
     print(img.dtype)
 
 
-src = cv.imread("../img/266679.png")  # 读取图片
+src = cv.imread("../img_input/266679.png")  # 读取图片
 
 # 新建一个窗口并展示
 cv.namedWindow("image", cv.WINDOW_AUTOSIZE)  # 定义窗口的大小
