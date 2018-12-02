@@ -3,6 +3,19 @@
 //
 //
 
+//参考资料：
+//
+//
+//1.相机参数标定（camera calibration）及标定结果如何使用
+//        https://blog.csdn.net/Aoulun/article/details/78768570?utm_source=blogxgwz7
+//
+//
+//2.张正友相机标定Opencv实现以及标定流程
+//https://blog.csdn.net/dcrmg/article/details/52939318?utm_source=blogxgwz2
+//3.http://dsynflo.blogspot.com/2010/03/camera-calibration-using-opencv.html
+//4.https://sourishghosh.com/2016/camera-calibration-cpp-opencv/
+//5.http://aishack.in/tutorials/calibrating-undistorting-opencv-oh-yeah/
+
 #include "opencv2/core/core.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/calib3d/calib3d.hpp"
