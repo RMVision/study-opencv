@@ -16,7 +16,7 @@ using namespace std;
 int main( int argc, char** argv )
 {
     //! [load]
-    String imageName( "../img/HappyFish.jpg" ); // by default
+    String imageName( "../img_input/HappyFish.jpg" ); // by default
 
     if( argc > 1) {
         imageName = argv[1];

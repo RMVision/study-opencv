@@ -1,19 +1,41 @@
-# 这里是我学OpenCV时候的笔记
+# Study OpenCV
+Here is my note  when I learning OpenCV and computer vision.
 
-## 第一章 概述(overview)
+# Note
+pass
 
-### 什么是OpenCV?
-开源的计算机视觉库
+# Resource
 
-### 谁用OpenCV?
-起码,我将会用OpenCV.
+## Table of Contents
+ * [Books](#books)
+ * [Courses](#courses)
+ * [Papers](#papers)
+ * [Datasets](#datasets)
+ * [Blogs](#blogs)
+ * [Github](#github)
 
-### 什么是计算机视觉?
-就是计算机对图像内容的信息提取?
-如何使计算机看到的不仅仅是一串数字
+## books
+ * [Learning OpenCV3](http://niracler.oss-cn-shenzhen.aliyuncs.com/Learning%20OpenCV%203.pdf)
+ * [Learning OpenCV(Chinese)](http://niracler.oss-cn-shenzhen.aliyuncs.com/OpenCV.pdf)
+ * [OpenCV3编程入门_毛星云编著](http://niracler.oss-cn-shenzhen.aliyuncs.com/OpenCV3%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8_%E6%AF%9B%E6%98%9F%E4%BA%91%E7%BC%96%E8%91%97.pdf)
+ * [Computer Vision:Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+ * [Linear Algebra and Its Applications](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)
 
-### OpenCV的起源
-也就那样
+## courses
+ * [Coursera meachine-learning By Andrew Ng](https://www.coursera.org/learn/machine-learning)
+ * [cs231n From B站翻译版](https://www.bilibili.com/video/av17204303)
 
-### 下载并按装OpenCV
-我算是早就弄好了
+
+## papers
+ * [24 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)
+
+## datasets
+ * [awesome-computer-vision#datasets](https://github.com/jbhuang0604/awesome-computer-vision#datasets)
+
+
+## blogs
+ * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick([code](https://github.com/spmallick/learnopencv))
+
+## github
+ * [TomLao](https://github.com/TomLao/LearnComputerVersion)
+ * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)

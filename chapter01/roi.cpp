@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    Mat pImg = imread("../img/266679.png");
+    Mat pImg = imread("../img_input/266679.png");
     Rect rect(400, 100, 300, 300);//(x,y),w,h, 原点在左上角
     Mat roi = Mat(pImg, rect);
     Mat pImgRect = pImg.clone();
